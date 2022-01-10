@@ -6,7 +6,7 @@ This will range from different study materials such as udemy courses, textbook r
 
 ## Async Algo Week ##
 
-## Algoexpert ##
+## LeetCode ##
   * Easy
   * Medium
   * Hard
@@ -15,4 +15,19 @@ This will range from different study materials such as udemy courses, textbook r
   * Foundation
   * Replay
   * Junior Phase
- 
+
+## JS Algo and Data Structures Masterclass by Colt Steele ##
+
+## Recursion ##
+
+## Sort ##
+
+## Lists ##
+
+## Stacks and Queues ##
+
+## Trees ##
+
+## Heaps ##
+
+## Hash ##
