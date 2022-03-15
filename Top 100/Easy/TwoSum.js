@@ -43,9 +43,26 @@ let twoSum = function(nums, target) {
   }
 }
 */
+/* 
+Two-Pass Hash Table -> O(n)
+var twoSum = function (nums, target) {
+  let hash = {};
+
+  for (let i = 0; i < nums.length; i++) {
+    hash[nums[i]] = i;
+  }
+  for (let i = 0; i < nums.length; i++) {
+    let difference = target - nums[i];
+
+    if (difference in hash && hash[difference] !== i) {
+      return [i, hash[difference]];
+    }
+  }
+};
+*/
 
 /*
-For a more optimized solution, we can use the hash -> O(n)
+One-Pass Hash Table -> O(n)
   We want to create a variable and set it to an empty object
   Set the current element as a key and its index as a value by looping through the array
   store the difference of targetSum - currentElem
