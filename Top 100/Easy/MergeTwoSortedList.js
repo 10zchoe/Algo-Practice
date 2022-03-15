@@ -62,7 +62,7 @@ var mergeTwoLists = function (list1, list2) {
   return head.next;
 };
 
-//Recursive Solution -> Time: O(min(N, M)), Space: O(1)
+/*Recursive Solution -> Time: O(min(N, M)), Space: O(1)
 var mergeTwoLists = function (l1, l2) {
   if (!l1 || !l2) {
     return l1 || l2;
@@ -78,3 +78,4 @@ var mergeTwoLists = function (l1, l2) {
   }
   return node;
 };
+*/
