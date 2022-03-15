@@ -27,11 +27,12 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
  * @return {boolean}
  */
 
-//PsuedoCode
+/*
 var isPalindrome = function (x) {
   //turn integer into string, split into an array, reverse, join
   return x.toString() === x.toString().split("").reverse().join("");
 };
+*/
 
 //Without turning into string
 var isPalindrome = function (x) {
