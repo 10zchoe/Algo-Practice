@@ -65,7 +65,7 @@ var isValid = function (str) {
   } else return false;
 };
 
-/* Using hashmap
+/* Using hashmap -> time O(n), space = O(n)
 var isValid = function(s) {   
     const stack = [];
     const map = {
