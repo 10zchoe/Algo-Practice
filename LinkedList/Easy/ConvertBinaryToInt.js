@@ -58,6 +58,6 @@ const getDecimalValue = (head) => {
   //5
 };
 
-//Time complexity: O(N).
+//Time complexity: O(N). Traversing through each head once
 //Space complexity: O(1).
 //input => [1,0,1]
