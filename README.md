@@ -1,15 +1,27 @@
-# LeetCode Algo-Practice
+# Algo-Practice
 
 This repo is meant to track my progress with algorithms and also keep me honest with my consistency!
 
 The main goal is to enhance my problem-solving skills by focusing on specific algo topics, analyzing and elaborating on different approaches, consistently psudo-coding, solving problems naively && then optimize and analyzing Time/Space Complexities.
 
-## 100 TOP LIKED LeetCode
+## Udemy | Master the Coding Interview
 
-- Easy
-- Medium
+- Arrays (Section 2-4)
+- Strings (Section 5-7)
+- Linked Lists (Section 8-11)
+- Stacks (Section 12-13)
+- Queues (Section 14)
+- Recursion (Section 15-16)
+- Binary Tress (Section 17-21)
+- Heaps and Priority Queues (Section 22)
+- 2D-Arrays (Section 23-26)
+- Graphs (Section 27-30)
+- Dynamic Programming (Section 31-32)
+- Backtracking (Section 33)
+- Interface Design (Section 34)
+- Tries (Section 35)
 
-## DATA STRUCTURES
+## LeetCode | Data Structures
 
 - Array
 - Binary Search
@@ -25,6 +37,8 @@ The main goal is to enhance my problem-solving skills by focusing on specific al
 - Dynamic Programming
 - Interval
 
-## Blind 75
+## LeetCode | Top 100
 
-## Bloomberg
+- Easy
+- Medium
+- Hard
