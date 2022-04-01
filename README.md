@@ -6,7 +6,7 @@ The main goal is to enhance my problem-solving skills by focusing on specific al
 
 ## Udemy | Master the Coding Interview
 
-- Arrays (Section 2-4)
+[] Arrays (Section 2-4)
 - Strings (Section 5-7)
 - Linked Lists (Section 8-11)
 - Stacks (Section 12-13)
